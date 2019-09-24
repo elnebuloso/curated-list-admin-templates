@@ -2,6 +2,14 @@
 
 A Curated Lists for Admin Templates
 
+## to be curated
+
+- https://dashboardpack.com/bootstrap-templates/free-themes/
+- https://dashboardpack.com/theme-details/architectui-dashboard-vue-free/
+- https://dashboardpack.com/theme-details/architectui-angular-7-dashboard-free/
+- https://dashboardpack.com/theme-details/architectui-react-dashboard-free/
+- https://dashboardpack.com/theme-details/architectui-html-dashboard-free/
+
 ## Free / OpenSource
 
 ## ngx-admin
